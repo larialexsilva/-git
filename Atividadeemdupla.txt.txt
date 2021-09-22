@@ -3,4 +3,6 @@ Sandro Rochel
 Teste de dupla 22/09/2021 
 data de nascimento
 Em que cidade vc nasceu?
+Angatuba SP
 Tem algum problema de saúde?
+Não.
